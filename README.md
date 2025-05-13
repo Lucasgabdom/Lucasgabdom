@@ -6,17 +6,30 @@
   🚀 Buscando minha primeira oportunidade na área de TI
 </p>
 
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8f/LogoFIAP-400x400.jpg" alt="FIAP Logo" width="100"/>
+</p>
+
 ---
 
-### 🚀 Tecnologias que estou estudando:
+### 🚀 Tecnologias que estou estudando
 
+#### 🧠 Back-end
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="Oracle"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"/>
+</p>
+
+#### 🎨 Front-end
+<p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"/>
+</p>
+
+#### 🛠️ Outras ferramentas
+<p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git"/>
 </p>
 
