@@ -43,6 +43,9 @@
           <td align="center">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/><br>JavaScript
           </td>
+          <td align="center">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40"/><br>Bootstrap
+          </td>
         </tr>
       </table>
     </td>
