@@ -43,8 +43,8 @@
 
 ### 📫 Contato
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/seu-usuario)
-- 📧 Email: seuemail@exemplo.com
+- 💼 [LinkedIn]([https://www.linkedin.com/in/seu-usuario](https://www.linkedin.com/in/lucas-gabriel-461a3425a/))
+- 📧 Email: gabriellucaswbtrombone@gmail.com
 
 ---
 
