@@ -1,9 +1,13 @@
 <h1 align="center">Olá! Eu sou o Lucas 👋</h1>
 
 <p align="center">
-  💻 Estudante de Análise e Desenvolvimento de Sistemas <br>
+  💻 Estudante de Análise e Desenvolvimento de Sistemas na <strong>FIAP</strong> <br>
   🎯 Apaixonado por tecnologia e por resolver problemas com código <br>
   🚀 Buscando minha primeira oportunidade na área de TI
+</p>
+
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8f/LogoFIAP-400x400.jpg" alt="FIAP Logo" width="100"/>
 </p>
 
 ---
@@ -41,7 +45,7 @@
 
 ### 📫 Contato
 
-- 💼 [**Linkedin**](https://www.linkedin.com/in/lucas-gabriel-461a3425a/).
+- 💼 [LinkedIn](https://www.linkedin.com/in/lucas-gabriel-461a3425a/)
 - 📧 Email: gabriellucaswbtrombone@gmail.com
 
 ---
