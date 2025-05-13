@@ -10,44 +10,31 @@
 
 ### 🚀 Tecnologias que estou estudando
 
-#### 🧠 Back-end
 <table>
   <tr>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/><br>Java
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="40"/><br>Oracle
-    </td>
-    <td align="center">
+    <!-- Back-end -->
+    <td align="center" valign="top">
+      <strong>🧠 Back-end</strong><br><br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/><br>Java<br><br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="40"/><br>Oracle<br><br>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/><br>Python
     </td>
-  </tr>
-</table>
 
-#### 🎨 Front-end
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/><br>HTML
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/><br>CSS
-    </td>
-    <td align="center">
+    <td align="center" valign="top">
+      <strong>🎨 Front-end</strong><br><br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/><br>HTML<br><br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/><br>CSS<br><br>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/><br>JavaScript
     </td>
-  </tr>
-</table>
 
-#### 🛠️ Outras ferramentas
-<table>
-  <tr>
-    <td align="center">
+    <!-- Outras ferramentas -->
+    <td align="center" valign="top">
+      <strong>🛠️ Outras ferramentas</strong><br><br>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/><br>Git
     </td>
   </tr>
 </table>
+
 
 ---
 
