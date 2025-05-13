@@ -31,12 +31,11 @@ Estudos de API REST usando Java e Spring Boot.
 
 ---
 
-### 📈 GitHub Stats
+### 📊 GitHub Stats
 
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=radical"/>
-</p>
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Lucasgabdom&show_icons=true&count_private=true&theme=radical)
+
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucasgabdom&layout=compact&theme=radical)
 
 ---
 
