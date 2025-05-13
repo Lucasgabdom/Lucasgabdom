@@ -6,10 +6,6 @@
   🚀 Buscando minha primeira oportunidade na área de TI
 </p>
 
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8f/LogoFIAP-400x400.jpg" alt="FIAP Logo" width="100"/>
-</p>
-
 ---
 
 ### 🚀 Tecnologias que estou estudando:
