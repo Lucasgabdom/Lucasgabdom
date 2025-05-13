@@ -6,32 +6,54 @@
   🚀 Buscando minha primeira oportunidade na área de TI
 </p>
 
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8f/LogoFIAP-400x400.jpg" alt="FIAP Logo" width="100"/>
-</p>
-
 ---
 
 ### 🚀 Tecnologias que estou estudando
 
-#### 🧠 Back-end
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="Oracle"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"/>
-</p>
+<table>
+  <tr>
+    <td align="center" colspan="3"><strong>🧠 Back-end</strong></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/><br>Java
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="40"/><br>Oracle
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/><br>Python
+    </td>
+  </tr>
+</table>
 
-#### 🎨 Front-end
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"/>
-</p>
+<table>
+  <tr>
+    <td align="center" colspan="3"><strong>🎨 Front-end</strong></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/><br>HTML
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/><br>CSS
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/><br>JavaScript
+    </td>
+  </tr>
+</table>
 
-#### 🛠️ Outras ferramentas
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git"/>
-</p>
+<table>
+  <tr>
+    <td align="center" colspan="1"><strong>🛠️ Outras ferramentas</strong></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/><br>Git
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -40,6 +62,8 @@
 - 📌 [**Projeto Java + Oracle (CRUD com JDBC)**](https://github.com/Lucasgabdom/nome-do-projeto)
 - 📌 [**Calculadora com Java Swing**](https://github.com/Lucasgabdom/nome-do-projeto)
 - 📌 [**API REST em desenvolvimento**](https://github.com/Lucasgabdom/nome-do-projeto)
+
+*Atualize os links acima com os nomes reais dos seus repositórios!*
 
 ---
 
