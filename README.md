@@ -1,51 +1,51 @@
 <h1 align="center">Olá! Eu sou o Lucas 👋</h1>
 
 <p align="center">
-  Estudante de Análise e Desenvolvimento de Sistemas 💻<br>
-  Apaixonado por tecnologia, códigos e resolver problemas 👨‍💻<br>
-  Buscando minha primeira oportunidade no mercado de TI 🚀
+  💻 Estudante de Análise e Desenvolvimento de Sistemas <br>
+  🎯 Apaixonado por tecnologia e por resolver problemas com código <br>
+  🚀 Buscando minha primeira oportunidade na área de TI
 </p>
 
 ---
 
 ### 🚀 Tecnologias que estou estudando:
 
-- 💻 Java (POO, JDBC, Swing)
-- 🐘 SQL (Oracle, MySQL)
-- 🐍 Python 
-- 🧱 HTML + CSS + JavaScript
-- ☁️ Git e GitHub
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="Oracle"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git"/>
+</p>
 
 ---
 
-### 🛠️ Projetos em destaque:
+### 📁 Projetos em destaque
 
-📌 [**Projeto Java + Oracle (CRUD com JDBC)**](https://github.com/seu-usuario/nome-do-projeto)  
-Sistema simples com cadastro de projetos integrando Java e banco Oracle.
+- 📌 [**Projeto Java + Oracle (CRUD com JDBC)**](https://github.com/Lucasgabdom/nome-do-projeto)
+- 📌 [**Calculadora com Java Swing**](https://github.com/Lucasgabdom/nome-do-projeto)
+- 📌 [**API REST em desenvolvimento**](https://github.com/Lucasgabdom/nome-do-projeto)
 
-📌 [**Calculadora em Java Swing**](https://github.com/seu-usuario/nome-do-projeto)  
-Calculadora com interface gráfica usando Swing.
-
-📌 [**API REST em desenvolvimento**](https://github.com/seu-usuario/nome-do-projeto)  
-Estudos de API REST usando Java e Spring Boot.
+*Atualize os links acima com os nomes reais dos seus repositórios!*
 
 ---
 
 ### 📊 GitHub Stats
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Lucasgabdom&show_icons=true&count_private=true&theme=radical)  ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucasgabdom&layout=compact&theme=radical)
-
-
-
----
-
-### 📫 Onde me encontrar:
-
-- 📧 Email: gabriellucaswbtrombone@gmail.com
+<p align="left">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Lucasgabdom&show_icons=true&count_private=true&theme=radical"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucasgabdom&layout=compact&theme=radical"/>
+</p>
 
 ---
 
-🧠 *"A prática leva à perfeição. Cada linha de código é um passo a mais na jornada!"*
+### 📫 Contato
 
+- 💼 [LinkedIn](https://www.linkedin.com/in/seu-usuario)
+- 📧 Email: seuemail@exemplo.com
 
+---
 
+> 🧠 *"A prática leva à perfeição. Cada linha de código é um passo a mais na jornada!"*
