@@ -77,7 +77,7 @@
 
 <p align="left">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Lucasgabdom&show_icons=true&count_private=true&theme=radical"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucasgabdom&layout=compact&theme=radical"/>
+  <img height="160em" src=""/>
 </p>
 
 ---
