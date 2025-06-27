@@ -70,21 +70,12 @@
 - 📌 [**Projeto Java + Oracle (CRUD com JDBC)**](https://github.com/Lucasgabdom/nome-do-projeto)
 - 📌 [**Calculadora com Java Swing**](https://github.com/Lucasgabdom/nome-do-projeto)
 - 📌 [**API REST em desenvolvimento**](https://github.com/Lucasgabdom/nome-do-projeto)
-
----
-
-### 📊 GitHub Stats
-
-<p align="left">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Lucasgabdom&show_icons=true&count_private=true&theme=radical"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucasgabdom&layout=compact&theme=radical"/>
-</p>
-
+  
 ---
 
 ### 📫 Contato
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/lucas-gabriel-461a3425a/)
+- 💼 Linkedin: (https://www.linkedin.com/in/lucas-gabriel-461a3425a/)
 - 📧 Email: gabriellucaswbtrombone@gmail.com
 
 ---
