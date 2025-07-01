@@ -62,14 +62,6 @@
     </td>
   </tr>
 </table>
-
----
-
-### 📁 Projetos em destaque
-
-- 📌 [**Projeto Java + Oracle (CRUD com JDBC)**](https://github.com/Lucasgabdom/nome-do-projeto)
-- 📌 [**Calculadora com Java Swing**](https://github.com/Lucasgabdom/nome-do-projeto)
-- 📌 [**API REST em desenvolvimento**](https://github.com/Lucasgabdom/nome-do-projeto)
   
 ---
 
