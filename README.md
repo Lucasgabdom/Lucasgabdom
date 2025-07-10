@@ -65,6 +65,10 @@
   
 ---
 
+[![My GitHub Language Stats](https://github-language-stats.vercel.app/api/top-langs/?username=Lucasgabdom&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
 ### 📫 Contato
 
 - 💼 Linkedin: (https://www.linkedin.com/in/lucas-gabriel-461a3425a/)
