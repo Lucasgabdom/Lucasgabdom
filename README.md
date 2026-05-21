@@ -13,43 +13,36 @@
 <table>
   <tr>
     <td align="center" valign="top">
-      <strong>🧠 Back-end</strong><br><br>
+      <strong>🧠 Back-end & Dados</strong><br><br>
       <table>
         <tr>
+          <td align="center">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40"/><br>C#
+          </td>
+          <td align="center">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="40"/><br>.NET
+          </td>
           <td align="center">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/><br>Java
           </td>
           <td align="center">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="40"/><br>Oracle
           </td>
-          <td align="center">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40"/><br>C#
-          </td>
         </tr>
       </table>
     </td>
     <td align="center" valign="top">
-      <strong>🎨 Front-end</strong><br><br>
+      <strong>🛠️ Ferramentas & Versionamento</strong><br><br>
       <table>
         <tr>
           <td align="center">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/><br>HTML
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/><br>Git
           </td>
           <td align="center">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/><br>CSS
-          </td>
-          <td align="center">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/><br>JavaScript
-          </td>
-          <td align="center">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40"/><br>Bootstrap
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/><br>GitHub
           </td>
         </tr>
       </table>
     </td>
-    <td align="center" valign="top">
-      <strong>🛠️ Outras ferramentas</strong><br><br>
-      <table>
-        <tr>
-          <td align="center">
-            <img src="
+  </tr>
+</table>
