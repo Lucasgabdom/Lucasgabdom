@@ -3,7 +3,7 @@
 <p align="center">
   💻 Estudante de Análise e Desenvolvimento de Sistemas na <strong>FIAP</strong> <br>
   🎯 Apaixonado por tecnologia e por resolver problemas com código <br>
-  🚀 Buscando minha primeira oportunidade na área de TI
+  🚀 Analista de TI Júnior na PSV Solutions
 </p>
 
 ---
@@ -12,7 +12,6 @@
 
 <table>
   <tr>
-    <!-- Back-end -->
     <td align="center" valign="top">
       <strong>🧠 Back-end</strong><br><br>
       <table>
@@ -24,12 +23,11 @@
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="40"/><br>Oracle
           </td>
           <td align="center">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/><br>Python
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40"/><br>C#
           </td>
         </tr>
       </table>
     </td>
-    <!-- Front-end -->
     <td align="center" valign="top">
       <strong>🎨 Front-end</strong><br><br>
       <table>
@@ -49,31 +47,9 @@
         </tr>
       </table>
     </td>
-    <!-- Outras ferramentas -->
     <td align="center" valign="top">
       <strong>🛠️ Outras ferramentas</strong><br><br>
       <table>
         <tr>
           <td align="center">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/><br>Git
-          </td>
-        </tr>
-      </table>
-    </td>
-  </tr>
-</table>
-  
----
-
-[![My GitHub Language Stats](https://github-language-stats.vercel.app/api/top-langs/?username=Lucasgabdom&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
-### 📫 Contato
-
-- 💼 Linkedin: (https://www.linkedin.com/in/lucas-gabriel-461a3425a/)
-- 📧 Email: gabriellucaswbtrombone@gmail.com
-
----
-
-> 🧠 *"A prática leva à perfeição. Cada linha de código é um passo a mais na jornada!"*
+            <img src="
