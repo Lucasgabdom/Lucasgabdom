@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="[https://www.linkedin.com/in/SEU-LINKEDIN](https://www.linkedin.com/in/lucas-gabriel-461a3425a/)">
+  <a href="https://www.linkedin.com/in/lucas-gabriel-461a3425a">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:gabriellucaswbtrombone@gmail.com">
