@@ -12,7 +12,7 @@
 
 - 🔭 Atualmente desenvolvendo soluções de **monitoramento de servidores em tempo real utilizando C# e SignalR**.
 - 🌱 Aprofundando conhecimentos no ecossistema **.NET, arquiteturas NoSQL (MongoDB) e bancos relacionais (Oracle, PostgreSQL)**.
-- 🎓 Formação em Análise e Desenvolvimento de Sistemas prevista para **Agosto de 2026**.
+- 🎓 Formação em Análise e Desenvolvimento de sistemas.
 - 💡 Tenho forte interesse em práticas de infraestrutura, observabilidade e SRE.
 
 ---
@@ -79,6 +79,6 @@
 ### 📊 Minhas Estatísticas
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Lucasgabdom&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucasgabdom&layout=compact&langs_count=7&theme=dark" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?Lucasgabdom&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?Lucasgabdom&layout=compact&langs_count=7&theme=dark" />
 </p>
