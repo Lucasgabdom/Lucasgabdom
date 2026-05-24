@@ -10,8 +10,6 @@
   </a>
   <a href="mailto:gabriellucaswbtrombone@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=Lucasgabdom&style=for-the-badge&color=0e75b6"/>
 </p>
 
 ---
